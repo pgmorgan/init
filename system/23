@@ -1,0 +1,5 @@
+Graphic Session:
+Select login username, enter <password>.
+SSH Session:
+ssh <username>@<hostname>
+<password>

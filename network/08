@@ -1,0 +1,7 @@
+With the following command:
+traceroute slash16.org
+We can find the route packets take to the network host.  There we can see Amazon AWS.
+
+With the following command:
+whois slash16.org
+We also see Amazon AWS.

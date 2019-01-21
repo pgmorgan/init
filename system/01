@@ -1,0 +1,6 @@
+Command:
+cat /etc/debian_version
+Provides the Debian version number.
+Command:
+cat /etc/os-release
+Provides the version name.

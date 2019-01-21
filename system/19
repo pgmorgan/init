@@ -1,0 +1,5 @@
+#Command:
+ls /etc/init.d
+#Alternative command with slightly different results:
+#systemctl list-units --type service
+#The name of this service is Daemon, named after Maxwell's Demon, a force in a thought experiment working in the background.  Taken from the greek spelling of a lower deity rather than from the Christian word.
