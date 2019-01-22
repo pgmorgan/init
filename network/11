@@ -1,9 +1,4 @@
 Command:
 traceroute slash16.org
-The 2nd device labelled nat-1 
-Command:
-nslookup 42.fr 8.8.8.8
-Command:
-traceroute slash16.org
  2  nat-1 (10.60.1.11)
 The device nat-1 makes the link between my local network and the outside world.

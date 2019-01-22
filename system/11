@@ -1,1 +1,4 @@
-df -h /
+df -h /dev/sda1
+#df -h /dev/sda5
+# sda5 is a logical partition which is accessible for storage of files but
+# is not bootable.  sda1 is the primary partition.

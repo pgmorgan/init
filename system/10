@@ -1,2 +1,2 @@
-#df
-fdisk -l
+#lsblk
+sudo /sbin/fdisk -l

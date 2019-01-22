@@ -1,4 +1,5 @@
 Command:
 host $(ifconfig en0 | grep "inet " | cut -c7-15)
-Reveals the name of our host as:
+Reveals:
 1.5.13.10.in-addr.arpa domain name pointer e3r5p1.42.fr.
+Therefore the name of the host is e3r5p1.42.fr
